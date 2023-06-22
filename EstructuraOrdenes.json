@@ -1,0 +1,22 @@
+{
+    "OrderID":123456,
+    "Address":"FUKUSHIMA",
+    "Status":"DESPACHADO",
+    "Articles": [
+    {
+    "Name":"REACTOR NUCLEAR",
+    "Quantity":2,
+    "Dangerous":true
+    },
+    {
+    "Name":"CONDENSADOR DE FLUJO",
+    "Quantity":1,
+    "Dangerous":true
+    },
+    {
+    "Name":"LIQUIDO REFRIGERANTE",
+    "Quantity":877,
+    "Dangerous":false
+    } 
+]
+}
